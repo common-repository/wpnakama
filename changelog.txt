@@ -1,0 +1,45 @@
+October 2024 - Version 0.3.3
+    * Fix: Public board not working on plain permalink
+
+October 2024 - Version 0.3.2
+    * Tweak: Remove limitations on the number of tasks and to-dos
+
+April 2024 - Version 0.3.1
+    * Fix: CSS issues on desktop
+
+April 2024 - Version 0.3.0
+    * New: Complete redesign of the plugin
+    * New: To-do list on Post editor
+    * New: Subtask as ToDos
+    * New: Public board view
+    * New: Notes in Task
+    * New: Deadlines
+    * New: Update indicator
+    * New: Resource page
+    * Update: Support latest WordPress version.
+    * Update: Production dependencies
+
+02 March 2024 - Version 0.2.4
+    * Fix: Mobile layout issues
+
+01 March 2024 - Version 0.2.3
+    * Fix: Routing issues
+    * Update: Production dependencies
+
+01 March 2024 - Version 0.2.2
+    * Fix: Database update on plugin updation
+
+01 March 2024 - Version 0.2.0
+    * New: Add tasks to working cards
+    * New: Add tasks indicator on kanban cards
+    * Fix: Kanban card ordering
+
+14 Feb 2024 - Version 0.1.2
+    * Fix: Kanban draggable element stick to top on drop
+
+13 Feb 2024 - Version 0.1.1
+    * Fix: Board specific phases API
+    * Fix: Blueprint script for live preview link on WP.org site
+
+18 Dec 2023 - Version 0.1.0
+    * Initial release

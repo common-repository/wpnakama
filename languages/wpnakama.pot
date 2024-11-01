@@ -1,0 +1,1193 @@
+# Copyright (C) 2024 kantbtrue, qdonow, designthingy, savydv
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPNakama - Team and client collaboration Starts Here 0.3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpnakama-main\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-05T08:06:01+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: wpnakama\n"
+
+#. Plugin Name of the plugin
+msgid "WPNakama - Team and client collaboration Starts Here"
+msgstr ""
+
+#. Description of the plugin
+msgid "Do you have Clients, a Team, & deadlines? OR Struggling with Productivity and Transparency? Then WPNakama is just meant for you."
+msgstr ""
+
+#. Author of the plugin
+msgid "kantbtrue, qdonow, designthingy, savydv"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpnakama.com"
+msgstr ""
+
+#: admin/class-wpnakama-admin.php:78
+msgid "FAQ"
+msgstr ""
+
+#: admin/class-wpnakama-admin.php:82
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-wpnakama-admin.php:86
+msgid "Support"
+msgstr ""
+
+#: admin/class-wpnakama-admin.php:94
+#: admin/class-wpnakama-admin.php:95
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "Boards"
+msgstr ""
+
+#: admin/class-wpnakama-admin.php:98
+msgid "Releases, Updates, Help Center on WPNakama"
+msgstr ""
+
+#: admin/class-wpnakama-admin.php:99
+msgid "Resources"
+msgstr ""
+
+#: admin/class-wpnakama-admin.php:102
+#: admin/app/build/index.js:1
+msgid "License Upgrade"
+msgstr ""
+
+#: admin/class-wpnakama-admin.php:103
+msgid "License"
+msgstr ""
+
+#: admin/class-wpnakama-admin.php:202
+msgid "WPNakama plugin page"
+msgstr ""
+
+#: frontend/templates/parts/board.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: frontend/templates/parts/board.php:144
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+#: admin/block-editor/build/index.js:1
+msgid "Completed"
+msgstr ""
+
+#: frontend/templates/parts/board.php:197
+msgid "Visible to all logged in members."
+msgstr ""
+
+#: inc/activate.php:31
+msgid "To use this plugin, upgrade your WordPress version"
+msgstr ""
+
+#: inc/activate.php:32
+msgid "500 Error: WordPress compatibility issue"
+msgstr ""
+
+#: inc/activate.php:43
+msgid "Plugin not able to activate. It has some admin dashboard dependencies related issue. Please contact to plugin developer."
+msgstr ""
+
+#: inc/activate.php:44
+msgid "500 Error: Plugin dependencies issue"
+msgstr ""
+
+#: inc/class-wpnakama-api.php:291
+#: inc/class-wpnakama-api.php:330
+#: inc/class-wpnakama-api.php:380
+#: inc/class-wpnakama-api.php:432
+#: inc/class-wpnakama-api.php:475
+msgid "Not Found"
+msgstr ""
+
+#: inc/class-wpnakama.php:167
+#: inc/class-wpnakama.php:270
+#: inc/class-wpnakama.php:353
+#: inc/class-wpnakama.php:456
+#: inc/class-wpnakama.php:484
+#: inc/class-wpnakama.php:520
+#: inc/class-wpnakama.php:543
+#: inc/class-wpnakama.php:593
+#: inc/class-wpnakama.php:613
+#: inc/class-wpnakama.php:636
+#: inc/class-wpnakama.php:657
+#: inc/class-wpnakama.php:680
+#: inc/class-wpnakama.php:739
+#: inc/class-wpnakama.php:767
+#: inc/class-wpnakama.php:790
+#: inc/class-wpnakama.php:833
+#: inc/class-wpnakama.php:877
+#: inc/class-wpnakama.php:897
+#: inc/class-wpnakama.php:920
+#: inc/class-wpnakama.php:1008
+#: inc/class-wpnakama.php:1031
+#: inc/class-wpnakama.php:1066
+#: inc/class-wpnakama.php:1116
+#: inc/class-wpnakama.php:1139
+#: inc/class-wpnakama.php:1187
+#: inc/class-wpnakama.php:1244
+#: inc/class-wpnakama.php:1259
+#: inc/class-wpnakama.php:1274
+#: inc/class-wpnakama.php:1297
+#: inc/class-wpnakama.php:1348
+#: inc/class-wpnakama.php:1375
+#: inc/class-wpnakama.php:1442
+#: inc/class-wpnakama.php:1457
+#: inc/class-wpnakama.php:1472
+#: inc/class-wpnakama.php:1523
+#: inc/class-wpnakama.php:1562
+#: inc/class-wpnakama.php:1685
+#: inc/class-wpnakama.php:1928
+#: inc/class-wpnakama.php:1962
+msgid "Invaild value passed."
+msgstr ""
+
+#: inc/class-wpnakama.php:490
+#: inc/class-wpnakama.php:718
+#: inc/class-wpnakama.php:796
+#: inc/class-wpnakama.php:839
+#: inc/class-wpnakama.php:1412
+msgid "Invaild order field passed."
+msgstr ""
+
+#: inc/class-wpnakama.php:499
+#: inc/class-wpnakama.php:727
+#: inc/class-wpnakama.php:805
+#: inc/class-wpnakama.php:848
+#: inc/class-wpnakama.php:1421
+msgid "Invaild order passed."
+msgstr ""
+
+#: inc/class-wpnakama.php:514
+#: inc/class-wpnakama.php:607
+#: inc/class-wpnakama.php:651
+#: inc/class-wpnakama.php:891
+#: inc/class-wpnakama.php:1238
+#: inc/class-wpnakama.php:1436
+msgid "Argument use to filter the records by board id."
+msgstr ""
+
+#: inc/class-wpnakama.php:753
+msgid "Table doesn't exists."
+msgstr ""
+
+#: inc/class-wpnakama.php:761
+#: inc/class-wpnakama.php:1002
+msgid "Argument required to add the record by board id."
+msgstr ""
+
+#: inc/class-wpnakama.php:1060
+#: inc/class-wpnakama.php:1110
+#: inc/class-wpnakama.php:1181
+msgid "Argument use to delete the record by board id."
+msgstr ""
+
+#: inc/class-wpnakama.php:1090
+msgid "Invaild value passed. A valid board_id required."
+msgstr ""
+
+#: inc/class-wpnakama.php:1253
+#: inc/class-wpnakama.php:1451
+#: inc/class-wpnakama.php:1466
+msgid "Argument use to filter the records by card id."
+msgstr ""
+
+#: inc/class-wpnakama.php:1268
+msgid "Argument use to filter the records by user id."
+msgstr ""
+
+#: inc/class-wpnakama.php:1605
+msgid "Must pass an option's name."
+msgstr ""
+
+#: inc/class-wpnakama.php:1614
+msgid "Invaild options name passed."
+msgstr ""
+
+#: inc/class-wpnakama.php:1661
+#: inc/class-wpnakama.php:1830
+msgid "Something, went wrong, while update the option."
+msgstr ""
+
+#: inc/class-wpnakama.php:1787
+msgid "License key is missing."
+msgstr ""
+
+#: inc/class-wpnakama.php:1807
+#: admin/app/build/357.js:1
+msgid "License key is required."
+msgstr ""
+
+#: inc/class-wpnakama.php:1812
+msgid "Invalid License Key."
+msgstr ""
+
+#: inc/class-wpnakama.php:1819
+msgid "License key already exists."
+msgstr ""
+
+#: inc/class-wpnakama.php:1858
+msgid "License key already activated."
+msgstr ""
+
+#: inc/class-wpnakama.php:1868
+msgid "Key is missing."
+msgstr ""
+
+#: inc/class-wpnakama.php:1891
+msgid "License key already deactivated."
+msgstr ""
+
+#: inc/class-wpnakama.php:1901
+msgid "Instance id is missing."
+msgstr ""
+
+#: inc/class-wpnakama.php:1903
+msgid "Key or instance id is missing."
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/app/build/417.js:1
+#: admin/app/build/618.js:1
+msgid "soon"
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/app/build/618.js:1
+msgid "Rename"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Invite Team"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Pin"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Clone"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "From"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Due Today"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "days"
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/block-editor/build/index.js:1
+msgid "Overdue"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Public board"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Successfuly renamed the board"
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "Something went wrong!"
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "Save the edited board title"
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "Disable rename mode"
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "There was a problem with your submission"
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "Title is required."
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "At least have 3 characters."
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/app/build/618.js:1
+msgid "Not more than 50 charaters."
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Add Board"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Close the modal"
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/app/build/618.js:1
+msgid "Title"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Board title is required."
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "At most 50 charaters."
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "A self explanatory title is more searchable."
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Description"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "At most 250 charaters"
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/app/build/618.js:1
+msgid "A short description will help others to understand the purpose of the board."
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/app/build/618.js:1
+msgid "Board Description"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Board added"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Something went wrong while saving the board"
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/app/build/618.js:1
+msgid "Adding"
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/app/build/357.js:1
+#: admin/app/build/618.js:1
+msgid "Add"
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Deleting a board will delete all its data from server."
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/app/build/618.js:1
+msgid "Something went wrong while deleting board."
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/app/build/357.js:1
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+#: admin/app/build/788.js:1
+msgid "Cancel"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Board deleted"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Something went wrong while deleting the board"
+msgstr ""
+
+#: admin/app/build/320.js:1
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "Delete"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Effective collaboration starts with project board"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Create Board"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Processing..."
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Team and Client Collaboration"
+msgstr ""
+
+#: admin/app/build/320.js:1
+msgid "Starts Here"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Client Management"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Manage your clients and their projects with ease."
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Upcoming feature"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Agency Management"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Manage your various teams and do seamless project management."
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Editorial Management"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Discuss, plan and execute your content strategy with ease."
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Message board"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Share notes, ideas and feedback with your team members and clients."
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "File Attachment"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Attach files to your boards and cards for better collaboration."
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Testing"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Team management"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Create teams and manage their access to boards and cards."
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Restrict board access with Password"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Add password to your boards to restrict access to only authorized users."
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Activity log"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Keep track of every activity on your boards and cards."
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Unlock All Pro Features"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Enter your license key to unlock all advanced features to power up your workspace."
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Manage your license key"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "You can activate or deactivate license on this site."
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "At least have 16 characters."
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "I don't have any license key"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Early Patron Discount"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Pro features are under-development and testing. By becoming an early patron you will get all pro features, support and updates for lifetime."
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Buy now"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Remove and deactivate license"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "xxxx-xxxx-xxxx-xxxx"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "1 site license"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Activate"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Deactivate"
+msgstr ""
+
+#: admin/app/build/357.js:1
+msgid "Upcoming pro features"
+msgstr ""
+
+#: admin/app/build/417.js:1
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: admin/app/build/417.js:1
+msgid "Share with Client"
+msgstr ""
+
+#: admin/app/build/417.js:1
+msgid "Let your client create task, attach files, leave messages and see the progress."
+msgstr ""
+
+#: admin/app/build/417.js:1
+msgid "Protect with Password"
+msgstr ""
+
+#: admin/app/build/417.js:1
+msgid "Restrict who can access your board publicly using passwords."
+msgstr ""
+
+#: admin/app/build/417.js:1
+msgid "Team Collaboration"
+msgstr ""
+
+#: admin/app/build/417.js:1
+msgid "Assign tasks, share files and drop message right from your board’s dashboard. Create teams, assign and start collaborating."
+msgstr ""
+
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "Upcoming Pro Feature"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Deleting a todo will delete all its data from server."
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Successfully deleted the todo."
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Something went wrong while deleting the todo"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Something went wrong while deleting this list."
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Successfuly renamed the todo"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Filter by"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Complete"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Incomplete"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Successfully added the todo."
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Something went wrong while saving the todo"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Empty todo is not allowed."
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Type and enter to create a ToDo"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "enter"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Search posts"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Fetching Data"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "to close"
+msgstr ""
+
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "Select deadline"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Someting went wrong while saving."
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Mark as complete"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Move to"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Todos"
+msgstr ""
+
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "Settings"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Activity Log"
+msgstr ""
+
+#: admin/app/build/417.js:171
+#: admin/block-editor/build/index.js:1
+msgid "Notes"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Informative text will help others to understand the purpose."
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Successfully saved the notes."
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Saving notes"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Save notes"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Add notes here"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Add a list of todos in your task."
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Save as template"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Posts"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Add a list of posts in your task."
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Successfully saved the posts."
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Someting went wrong while saving the posts in the task."
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Saving posts"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Save posts"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Update task settings"
+msgstr ""
+
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "Successfully saved the changes."
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Something went wrong while saving the task, please refresh the page and try again."
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Saving"
+msgstr ""
+
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "Save changes"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Task Title"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Task title"
+msgstr ""
+
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "Field is required."
+msgstr ""
+
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "At least 3 characters required."
+msgstr ""
+
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "At most 50 characters allowed."
+msgstr ""
+
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "Deadline"
+msgstr ""
+
+#: admin/app/build/417.js:171
+msgid "Set the ending date for task."
+msgstr ""
+
+#: admin/app/build/417.js:171
+#: admin/app/build/618.js:1
+msgid "Select date"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Successfuly renamed the kanban list"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Not more than 15 charaters."
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "List title is required."
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "At most have 25 characters."
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "A self explanatory title is good to have for a list."
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Something went wrong while saving list."
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "List added"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Something went wrong while saving the kanban list"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Deleting a list will delete all its data from server."
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Something went wrong while deleting list."
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "List deleted"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Something went wrong while deleting the list"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Create list"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "No empty task please."
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Task added"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Something went wrong while saving the task"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Save the task"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Add task"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Back"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Select Board Style"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Deadline is not set, showing current date by default."
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Task"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Successfuly renamed the task"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Deleting a task will delete all its data from server."
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Task deleted"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Something went wrong while deleting the task"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Something went wrong while impleting the board style."
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Implementing the board style"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Use Style"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Something went wrong while doing auto updating."
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Ending date have to greater than starting date."
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Message Board"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Tasks"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Files Attached"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Public"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Private"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Share"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Share Public Link"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Something went wrong while saving the board, please refresh the page and try again."
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Board public URL copied to clipboard."
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Failed to copy the board public URL to clipboard."
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "No board style found"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Please select a style to the board before sharing it with clients."
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Pro"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid " Restrict Access with Password"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Update board settings"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Saving changes"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Board Title"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Board title"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "At most 250 characters allowed."
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Set the deadline from when you are start working and finishing this board."
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "From when to start working"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Start Date"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Work must end before or on"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "End Date"
+msgstr ""
+
+#: admin/app/build/618.js:1
+msgid "Ending date have to be greater than starting date."
+msgstr ""
+
+#: admin/app/build/788.js:1
+msgid "minor updates"
+msgstr ""
+
+#: admin/app/build/788.js:1
+msgid "Releases"
+msgstr ""
+
+#: admin/app/build/788.js:1
+msgid "Help Center"
+msgstr ""
+
+#: admin/app/build/788.js:1
+msgid "Latest features released"
+msgstr ""
+
+#: admin/app/build/788.js:1
+msgid "Request Feature"
+msgstr ""
+
+#: admin/app/build/788.js:1
+msgid "Report bug"
+msgstr ""
+
+#: admin/app/build/788.js:1
+msgid "New"
+msgstr ""
+
+#: admin/app/build/788.js:1
+msgid "Updates released"
+msgstr ""
+
+#: admin/app/build/788.js:1
+msgid "Add Feature or Report Bug"
+msgstr ""
+
+#: admin/app/build/788.js:1
+msgid "Please provide a detailed description of the feature you would like to request or the bug you would like to report at "
+msgstr ""
+
+#: admin/app/build/index.js:1
+msgid "Manage License"
+msgstr ""
+
+#: admin/app/build/index.js:1
+msgid "Engineered with"
+msgstr ""
+
+#: admin/app/build/index.js:1
+msgid "by"
+msgstr ""
+
+#: admin/app/build/index.js:1
+msgid "Help"
+msgstr ""
+
+#: admin/app/build/index.js:1
+msgid "Did you know!"
+msgstr ""
+
+#: admin/app/build/index.js:1
+msgid "Mostly people pick the products based on ratings. We’re no different. We need your help to reach out to as many people who are in need of a tool like ours"
+msgstr ""
+
+#: admin/app/build/index.js:1
+msgid "Rate us on WordPress.org"
+msgstr ""
+
+#: admin/app/build/index.js:1
+msgid "I've already rated!"
+msgstr ""
+
+#: admin/app/build/index.js:1
+msgid "I'll do it later"
+msgstr ""
+
+#: admin/app/build/index.js:1
+msgid "Something went wrong"
+msgstr ""
+
+#: admin/app/build/index.js:1
+msgid "Page not found"
+msgstr ""
+
+#: admin/app/build/index.js:1
+msgid "An error occurred"
+msgstr ""
+
+#: admin/app/build/index.js:1
+msgid "The page you are looking for does not exist."
+msgstr ""
+
+#: admin/app/build/index.js:1
+msgid "Copy the message from the below field, describe the scenario, and send us to"
+msgstr ""
+
+#: admin/app/build/index.js:1
+msgid "Go to homepage"
+msgstr ""
+
+#: admin/block-editor/build/index.js:1
+msgid "Successfully, mark the to-do completed."
+msgstr ""
+
+#: admin/block-editor/build/index.js:1
+msgid "Successfully, mark the to-do uncompleted."
+msgstr ""
+
+#: admin/block-editor/build/index.js:1
+msgid "Something went wrong while marking the to-do complete."
+msgstr ""
+
+#: admin/block-editor/build/index.js:1
+msgid "Something went wrong while marking the to-do uncomplete."
+msgstr ""
+
+#: admin/block-editor/build/index.js:1
+msgid "No Task found"
+msgstr ""
+
+#: admin/block-editor/build/index.js:1
+msgid "Show/hide todos"
+msgstr ""
+
+#: admin/block-editor/build/index.js:1
+msgid "No boards found. Create a board on WP Nakama."
+msgstr ""
